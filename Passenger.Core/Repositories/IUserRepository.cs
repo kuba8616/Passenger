@@ -19,5 +19,7 @@ namespace Passenger.Core.Repositories
         void Update(User user);
 
         void Remove(Guid id);
+
+        void Test();
     }
 }
